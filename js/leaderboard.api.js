@@ -1,7 +1,7 @@
 var Leaderboard = (function() {
 
     // The root URL for the RESTful services
-    var rootURL = "http://localhost:85/phplearn/scoreapi/api/scores";
+    var rootURL = "http://localhost:85/phplearn/LeaderboardAPI/api/scores";
 
     /*
      *  Get top 50 scores from the DB and return the data in a promise.
